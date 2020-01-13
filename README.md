@@ -1,2 +1,15 @@
-# reglex
-A simple lexical analyser and parser built in Ruby
+# RegLex
+
+A fast lexical analyzer and parser built on Ruby which converts preﬁxed regular expressions to expression trees with a relatively compact code base.
+
+### converts DFA/NFA's like:
+
+<p align="center">
+  <img src="https://i.imgur.com/UMahzfI.png" alt="Excerpt from "Introduction to Compiler Theory""/>
+</p>
+
+### to prefix trees such as:
+
+<p align="center">
+  <img src="https://i.imgur.com/kSsTs6r.png" alt="Excerpt from "Introduction to Compiler Theory""/>
+</p>
