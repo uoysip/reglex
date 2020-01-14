@@ -6,10 +6,6 @@ A fast lexical analyzer and parser built on Ruby which converts preﬁxed regula
   <img src="https://i.imgur.com/UMahzfI.png" alt="Excerpt from "Introduction to Compiler Theory""/>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/kSsTs6r.png" alt="Excerpt from "Introduction to Compiler Theory""/>
-</p>
-
 ## TODO
 
 - [ ] Add edge case test harnesses for lexical analyzer
