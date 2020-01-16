@@ -11,3 +11,7 @@ A fast lexical analyzer and parser built on Ruby which converts preﬁxed regula
 - [ ] Add edge case test harnesses for lexical analyzer
 - [ ] Support Tree to NFA conversion
 - [ ] Support NFA to DFA conversion
+
+## License
+
+This project is released under the MIT license, see the LICENSE file for details.
